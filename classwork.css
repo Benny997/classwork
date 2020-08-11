@@ -1,0 +1,100 @@
+#navigation-bar{
+    background-color:green;
+    width: 100vw;
+    height: 50px;
+    
+}
+.nav-bar{
+    font-size: 100%;
+    float:right;
+    color: rosybrown;
+    display:flex;
+    padding: 3px;
+}
+.nav-bar a{
+    color: white;
+    padding-left: 9px;
+    text-decoration: none;
+
+
+
+
+}
+#first-text{
+    text-align: center;
+    margin-left: 160px;
+    
+}
+#second-text{
+margin-left: 160px;
+text-align: center;
+}
+
+#first-image{
+width: 100vw;
+height: 30vh;
+background-color: green;
+background-image: url("bat.jpg")
+
+}
+#write{
+    color: seashell;
+    text-align: center;
+    font-size: 30px;
+}
+
+.second-image{
+    width: 100vw;
+    height: 40vh;
+   color: red;
+   background-image: url("lion.jpg");
+   background-repeat: no-repeat;
+   padding-left: 60px;
+   
+    
+
+}
+
+.third-image{
+    background-image: url("lion.jpg");
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 40vh;
+    padding-left: 60px;
+    
+   
+
+    
+}
+
+#footbar{
+    background-color: steelblue;
+    width: 100wh;
+    height: 15vh;
+}
+
+.write-up{
+    display: flex;
+    float: right;
+    text-align: center;
+    padding-left: 10px;
+
+}
+.write-up a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+   a:hover{
+       text-decoration: underline;
+       
+   }
+    
+
+
+
+
+
+ 
+        
+        
+        
